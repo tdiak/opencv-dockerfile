@@ -7,5 +7,5 @@ Docker
 
 ```
 docker build -t opencv .
-docker run -v  $PWD/code:/home/code  -it opencv bas
+docker run -v  $PWD/code:/home/code  -it opencv bash
 ```
